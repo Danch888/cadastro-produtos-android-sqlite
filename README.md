@@ -103,7 +103,7 @@ As capturas de tela completas de todas as etapas (cadastro, seleção múltipla,
 
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/daniel88ubajara/cadastro-produtos-android-sqlite.git
+   git clone https://github.com/Danch888/cadastro-produtos-android-sqlite.git
    ```
 2. Abra o **Android Studio**.
 3. Selecione **File > Open...** e aponte para a pasta `cadastro-produtos-android-sqlite`.
@@ -117,4 +117,4 @@ As capturas de tela completas de todas as etapas (cadastro, seleção múltipla,
 Desenvolvido por **Daniel Lima**  
 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/daniel88ubajara)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/Danch888)
