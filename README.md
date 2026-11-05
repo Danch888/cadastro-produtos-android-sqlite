@@ -6,6 +6,7 @@
 ![Material Design](https://img.shields.io/badge/UI-Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-9.6-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-2e7d32?style=for-the-badge&logo=android)](https://github.com/Danch888/cadastro-produtos-android-sqlite/releases/download/v1.0.0/CadastroProdutos-debug-v1.0.apk)
 
 Aplicativo Android nativo desenvolvido em **Java** no **Android Studio**, com persistência local de dados utilizando **SQLite** (`SQLiteOpenHelper`). O projeto adota componentes visuais modernos do **Material Design 3**, arquitetura limpa orientada a objetos e recursos avançados de interface e usabilidade.
 
