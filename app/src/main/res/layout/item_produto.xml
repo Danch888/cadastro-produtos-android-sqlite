@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <!-- Caixa de Seleção por Item -->
+    <CheckBox
+        android:id="@+id/chkItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="48dp"
+        android:minHeight="48dp" />
+
+    <!-- Nome e Preço do Produto -->
+    <TextView
+        android:id="@+id/txtProdutoInfo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="8dp"
+        android:textColor="#1F2937"
+        android:textSize="16sp" />
+
+    <!-- Ícone de Lixeira Vermelha para Deletar Individualmente -->
+    <ImageButton
+        android:id="@+id/btnDeletarItem"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="Deletar produto"
+        android:src="@android:drawable/ic_menu_delete"
+        app:tint="#DC2626" />
+
+</LinearLayout>
