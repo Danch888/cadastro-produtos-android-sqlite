@@ -92,11 +92,11 @@ As capturas de tela completas de todas as etapas (cadastro, seleção múltipla,
 
 | Cadastro e Listagem | Seleção Múltipla para Exclusão |
 | :---: | :---: |
-| ![Itens Salvos](prints/20%20-%20Itens%20Salvos%20no%20Banco%20de%20Dados.png) | ![Marcando Itens](prints/21%20-%20Marcando%20Itens%20para%20Deletar.png) |
+| ![Cadastro e Listagem](prints/20%20-%20Preenchendo%20com%20os%20itens%20-%20Parte%205.png) | ![Seleção Múltipla](prints/23%20-%20Testando%20exclus%C3%A3o%20de%20multiplos%20itens%20-%20Parte%201.png) |
 
-| Confirmação de Limpeza Total | Validação de Entrada |
+| Confirmação de Exclusão em Lote | Confirmação de Limpeza Total |
 | :---: | :---: |
-| ![Limpando Banco](prints/23%20-%20Limpando%20Banco%20de%20Dados.png) | ![Testando Erros](prints/25%20-%20Testando%20Erros%20-%20Parte%201.png) |
+| ![Exclusão em Lote](prints/24%20-%20Testando%20exclus%C3%A3o%20de%20multiplos%20itens%20-%20Parte%202.png) | ![Limpeza Total](prints/26%20-%20Testando%20exclus%C3%A3o%20total%20do%20banco%20de%20dados%20-%20Parte%201.png) |
 
 ---
 
